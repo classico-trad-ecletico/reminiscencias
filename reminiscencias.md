@@ -232,7 +232,7 @@ estruturadores, aproximadamente paralelos, foram conectados por uma rede
 secundária de adarves, ruas de trás [nomenclatura proposta por
 @teixeira:2012forma], e largos introvertidos.
 
-![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século XV, mostrando o traçado estruturante que delimita um bloco de quadras (sombreados em rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](media/pt-castelo_vide-judiaria-tracado.png){#fig:vide}
+![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século XV, mostrando o traçado estruturante que delimita um bloco de quadras (rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](media/pt-castelo_vide-judiaria-tracado.png){#fig:vide}
 
 Se a ocupação urbana hispanomuçulmana operou sobretudo uma sedimentação
 dos traçados e parcelamentos de origem romana, a reorganização
@@ -683,7 +683,7 @@ ultrapassar esse registro caíram, porém, no outro extremo, tributário da
 teoria historiográfica germânica da empatia (*Einfühlung*),
 frequentemente associada --- de modo questionável --- à obra de Heinrich
 Wölfflin e ao seu conceito de uma "história da arte sem nomes [de
-artistas]".[^einfuehlung] Assim, Helder Carita especularia, acerca de um
+artistas]".[@woelfflin:1948kunstgeschichtliche] Assim, Helder Carita especularia, acerca de um
 grau mais profundo de influência árabe nas artes decorativas de
 Portugal, de modo um tanto obscuro e abstrato:
 
@@ -694,10 +694,6 @@ Portugal, de modo um tanto obscuro e abstrato:
 > necessidade lógica de causa e consequência, o espaço decompõe-se numa
 > sucessão inesperada de situações autónomas, mas interdependentes.
 > [@carita:1999oriente, p. 43]
-
-[^einfuehlung]: @woelfflin:1948kunstgeschichtliche. A adesão de Wölfflin
-à teoria da empatia fora mais forte em sua tese de doutorado, declinando
-ao longo de sua carreira subsequente. Ver @woelfflin:1886prolegomena.
 
 A proposição, que não deixa de ser instigante numa visão de conjunto,
 deixa entretanto abertas todas as interrogações que se possa ter sobre
