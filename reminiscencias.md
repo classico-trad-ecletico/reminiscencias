@@ -5,6 +5,7 @@ subtitle: "Mudejar recollections in the architecture of Portugal and Brazil prio
 keywords: [História da Arquitetura, Regionalismo, Neoárabe]
 #date: "2019-10-23"
 lang: pt-BR
+bibliography: "biblio.yaml"
 csl: "associacao-brasileira-de-normas-tecnicas.csl"
 reference-section-title: "Referências bibliográficas"
 figureTitle: Figura
@@ -62,7 +63,7 @@ origem portuguesa. Lançado nas preocupações da classe intelectual
 portuguesa em meados do século XIX por meio da literatura, em obras como
 o conto *Miragaia* de @almeida:1844miragaia, passando pela etnografia
 com o problema do "mosarabismo" de Teófilo @braga:1870historia [ver
-também @martins:1953teoriaXXVIII], foi sobretudo no campo da arquitetura
+também @martins:1953teoriaxxviii], foi sobretudo no campo da arquitetura
 e do patrimônio material que a temática islâmica se consolidou na
 percepção do público desde o século XX.
 
@@ -146,9 +147,7 @@ possível reconstituir um padrão de reparcelamento do solo com lotes
 compactos, afeito à construção de moradas introvertidas e dotadas de
 pátio central.
 
-![Perímetro da cidade romana de Évora evidenciando a sedimentação do traçado romano. Desenho: [Pedro P. Palazzo, 2019][] com base em mapa de Cristóvão Aires, 1902 [@aires:1902historia1, XII]](media/768px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
-
-[Pedro P. Palazzo, 2019]: https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg
+![Perímetro da cidade romana de Évora evidenciando a sedimentação do traçado romano. Desenho: @palazzo:2019reconstituicao com base em mapa de Cristóvão @aires:1902historia1 [XII]](media/figura-01.png){#fig:evora}
 
 O sistema de hierarquia viária e parcelamento do solo característico da
 arabização cultural e política da península Ibérica constitui mais um
@@ -158,7 +157,7 @@ da propriedade do solo constitui o aspecto do desenvolvimento mais
 diretamente sujeito às intenções políticas do poder vigente e ao sistema
 de referenciais técnicos que este poder detém. O modo arabizado de
 estruturar o espaço urbano na península Ibérica resultava, segundo
-@mazzoli-guintard:2000ciudades [138-140], numa ordem urbana em três
+@mazzoliguintard:2000ciudades [138-140], numa ordem urbana em três
 níveis:
 
 1. Alcáçova, sinalizando o centro do poder político e demarcando a
@@ -183,7 +182,7 @@ dos substantivos qā'ida, almedina, qarya e ḥiṣn, que designam diferentes
 posições hierárquicas ou importâncias dos núcleos habitados. Apenas o
 conceito de almedina tende a estar preferencialmente associado a uma
 sede de poder político e, nesse sentido, por vezes se confunde com
-o papel político da alcáçova [@mazzoli-guintard:2000ciudades, 25, 35].
+o papel político da alcáçova [@mazzoliguintard:2000ciudades, 25, 35].
 
 A reurbanização árabe do substrato romano formou, portanto,
 característicos sistemas de distritos com elevada identidade formal e
@@ -203,7 +202,7 @@ resultou numa configuração de ruas principais delimitando extensas
 secundários de adarves e largos para formar *blocos* de lotes e casas.
 Os pontos focais dessas quadras são cruzamentos ou pequenos largos onde
 se situavam equipamentos comunitários, tais como bicas ou locais de
-culto, e por vezes algum comércio [@mazzoli-guintard:2000ciudades, p.
+culto, e por vezes algum comércio [@mazzoliguintard:2000ciudades, p.
 98].
 
 ----------------------
@@ -232,7 +231,7 @@ estruturadores, aproximadamente paralelos, foram conectados por uma rede
 secundária de adarves, ruas de trás [nomenclatura proposta por
 @teixeira:2012forma], e largos introvertidos.
 
-![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século XV, mostrando o traçado estruturante que delimita um bloco de quadras (rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](media/pt-castelo_vide-judiaria-tracado.png){#fig:vide}
+![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século XV, mostrando o traçado estruturante que delimita um bloco de quadras (rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](media/figura-02.png){#fig:vide}
 
 Se a ocupação urbana hispanomuçulmana operou sobretudo uma sedimentação
 dos traçados e parcelamentos de origem romana, a reorganização
@@ -261,7 +260,7 @@ França, fundamentalmente redutíveis, para @falini:1978politica [99], aos
 propósitos de controle administrativo e militar do território, e de
 expansão da base agrária.
 
-![Vila de fundação de Caminha, Minho. Esquerda: planta reconstituída da cidade no século XIII, baseada em @trindade:2009urbanismo, 140; direita: hipótese de esquema modular ideal. Desenho: Pedro P. @palazzo:2021vernacular](media/pt-caminha-reconstructed-ideal.png){#fig:caminha}
+![Vila de fundação de Caminha, Minho. Esquerda: planta reconstituída da cidade no século XIII, baseada em @trindade:2013urbanismo; direita: hipótese de esquema modular ideal. Desenho: Pedro P. @palazzo:2021vernacular](media/figura-03.png){#fig:caminha}
 
 A sobreposição ou justaposição das novas práticas aos tecidos históricos
 interrompeu a vigência de processos de transformação urbana de herança
@@ -296,7 +295,7 @@ comunidades muçulmanas para fora dos espaços urbanos privilegiados, a
 reorganização dos espaços tradicionalmente ocupados pelas comunidades
 judaicas em verdadeiras judiarias reclusas e fortemente adensadas só se
 efetivaria de finais do século XIV a meados do XV
-[@trindade:2009urbanismo, p. 626].
+[@trindade:2013urbanismo].
 
 
 # Heranças árabes na domesticidade luso-brasileira #
@@ -367,7 +366,7 @@ perda de privacidade. Esta adequação permaneceu ainda mais evidente na
 casa de morada urbana atestada no Brasil desde o período colonial até a
 segunda metade do século XIX.
 
-![Casa dos crivos ou das gelosias, Braga, século XVII. Foto: [Krysztof Golik, 2020][]](media/Casa_dos_Crivos_in_Braga.jpg){#fig:crivos}
+![Casa dos crivos ou das gelosias, Braga, século XVII. Foto: [Krysztof Golik, 2020][]](media/figura-04.jpg){#fig:crivos}
 
 [Krysztof Golik, 2020]: https://commons.wikimedia.org/wiki/File:Casa_dos_Crivos_in_Braga.jpg
 
@@ -405,7 +404,7 @@ fosse ela térrea ou assobradada, o espaço que ele designava como "salle
 à manger" (sala de jantar) ocupava a mesma posição espacial e funcional
 que a varanda [@debret:1839voyage3, 214].
 
-![Jean-Baptiste Debret. Descanso na varanda após o almoço [-@debret:1835voyage2, pl. 8 (detalhe)]. Litografia. New York Public Library](media/debret-diner.jpg){#fig:diner}
+![Jean-Baptiste Debret. Descanso na varanda após o almoço [-@debret:1835voyage2, pl. 8, detalhe]. Litografia. New York Public Library](media/figura-05.jpg){#fig:diner}
 
 ------------------------------------------------------------------
 
@@ -420,7 +419,7 @@ célula na frontaria, pode haver a introdução de um corredor
 longitudinal. Células dispostas no miolo da construção formam alcovas,
 desprovidas de janelas para o exterior.
 
-![Jean-Baptiste Debret. Planta de morada urbana no Rio de Janeiro [-@debret:1839voyage3, pl. 42]](media/debret-plan-nypl.jpg){#fig:debret-nypl}
+![Jean-Baptiste Debret. Planta de morada urbana no Rio de Janeiro [-@debret:1839voyage3, pl. 42]](media/figura-06.jpg){#fig:debret-nypl}
 
 A setorização da morada colonial luso-brasileira dizia respeito menos à
 localização, em caráter permanente, de atividades específicas a cada
@@ -455,7 +454,7 @@ escravos do serviço doméstico ---, apto a receber diversos usos conforme
 a disposição da mobília: refeições, trabalho doméstico, preparo de
 alimentos, etc.
 
-![Varanda na casa-grande da fazenda Babylonia, Pirenópolis (Goiás), primeira metade do século XIX. Foto: [Leon Ivan Dodriac, 2018][]](media/babylonia.jpg){#fig:babilonia}
+![Varanda na casa-grande da fazenda Babylonia, Pirenópolis (Goiás), primeira metade do século XIX. Foto: [Leon Ivan Dodriac, 2018][]](media/figura-07.jpg){#fig:babilonia}
 
 [Leon Ivan Dodriac, 2018]: https://commons.wikimedia.org/wiki/File:Varanda_da_Fazenda_Babilônia.jpg
 
@@ -539,7 +538,7 @@ de D. Manuel em Évora (@fig:damas), ambos reformados por ordem do rei no
 primeiro Quinhentos, além da profusão de azulejaria sevilhana ou de suas
 imitações nacionais por esse período.
 
-![Galeria das Damas, paço de D. Manuel, Évora, primeira década do século XVI. Foto do autor](media/damas.jpg){#fig:damas}
+![Galeria das Damas, paço de D. Manuel, Évora, primeira década do século XVI. Foto do autor](media/figura-08.jpg){#fig:damas}
 
 Tal interpretação, levantada a partir de meados do século XIX, fazia
 porém do "mudejarismo" português no seu todo um empréstimo erudito e
@@ -613,7 +612,7 @@ Braga.[^antimosarabismo]
 
 [^antimosarabismo]: Dentre eles, Oliveira Martins, cujo artigo póstumo
 refletia debates nos quais se engajara em vida, e mesmo o brasileiro
-Sílvio Romero. [@martins:1953teoriaXXVIII; @romero:1906patria].
+Sílvio Romero. [@martins:1953teoriaxxviii; @romero:1906patria].
 
 Por contraste, o princípio de um núcleo nacional isento de contaminações
 arabizadas relegaria às extremidades do território a possibilidade de se
@@ -649,7 +648,7 @@ a expansão territorial do reino para dominar, ainda que com técnica
 simplificada e iconografia abastardada, os programas decorativos da
 arquitetura religiosa nas ilhas do Atlântico (@fig:funchal) e no Brasil.
 
-![Teto em alfarje na nave central da Sé do Funchal, início do século XVI. Foto: [Hajotthu, 2013][]](media/1280px-Funchal_Kathedrale_Holzdecke.jpg){#fig:funchal}
+![Teto em alfarje na nave central da Sé do Funchal, início do século XVI. Foto: [Hajotthu, 2013][]](media/figura-09.jpg){#fig:funchal}
 
 [Hajotthu, 2013]: https://commons.wikimedia.org/wiki/File:Funchal_Kathedrale_Holzdecke.jpg
 
@@ -670,7 +669,7 @@ elementos artísticos, como o próprio aximez, originários de meados do
 século IX. Tal leitura reforça, segundo @almeida:2017velhos24 [45-47],
 o papel deste elemento como marcador intencional de identidade cultural.
 
-![Aximez sobre a nave da igreja matriz de São Pedro de Lourosa, Beira Alta, 912. Foto: [G. Freihalter, 2016][]](media/lourosa.jpg){#fig:lourosa}
+![Aximez sobre a nave da igreja matriz de São Pedro de Lourosa, Beira Alta, 912. Foto: [G. Freihalter, 2016][]](media/figura-10.jpg){#fig:lourosa}
 
 [G. Freihalter, 2016]: https://commons.wikimedia.org/wiki/File:Lourosa_(Oliveira_do_Hospital)\_São_Pedro_120.jpg
 
@@ -725,7 +724,7 @@ definido, as culturas ibéricas e árabes --- mas que era sancionada
 também pelo gosto germânico da época [@piacentini:1996dove], fato
 crucial na hierarquia crítica da primeira metade do século XX.
 
-![Açoteias no bairro do Consórcio português da conserva do peixe, arquiteto Eugénio Correia, Olhão (Algarve), 1935--1938. Foto: Estúdio Horácio Novais. Acervo FCG Biblioteca de Arte](media/cpcp.jpg){#fig:acoteia}
+![Açoteias no bairro do Consórcio português da conserva do peixe, arquiteto Eugénio Correia, Olhão (Algarve), 1935--1938. Foto: Estúdio Horácio Novais. Acervo FCG Biblioteca de Arte](media/figura-11.jpg){#fig:acoteia}
 
 À semelhança da expansão ultramarina do reino de Portugal,
 o mudejarismo erudito e a arabização vernácula da cultura lusa não
@@ -787,7 +786,7 @@ Nortúmbria. O episódio é relatado por @kelly:1984expensive126, mas nada
 além disso se sabe acerca da trajetória de Johnston ou de seus demais
 serviços prestados à Coroa portuguesa no Rio de Janeiro.
 
-![Jean-Baptiste Debret. Paço da Quinta da Boa Vista em São Cristóvão, Rio de Janeiro, em 1831 [publ. -@debret:1839voyage3, pl. 20 (detalhe)]](media/quinta-1831.jpg){#fig:debret-mourisco}
+![Jean-Baptiste Debret. Paço da Quinta da Boa Vista em São Cristóvão, Rio de Janeiro, em 1831 [publ. -@debret:1839voyage3, pl. 20 (detalhe)]](media/figura-12.jpg){#fig:debret-mourisco}
 
 A leitura depreciativa deste "gosto mourisco" será talvez menos
 surpreendente, dada a vinculação teórica de Debret, do que a própria
@@ -800,7 +799,7 @@ como ponte para partir, desta descrição depreciativa explícita, para as
 leituras implícitas da arquitetura vernácula que transparecem na obra de
 Debret.
 
-![Henry Chamberlain. Uma história [-@chamberlain:1822views]](media/chamberlain.jpg){#fig:chamberlain}
+![Henry Chamberlain. Uma história [-@chamberlain:1822views]](media/figura-13.jpg){#fig:chamberlain}
 
 De fato, Debret tratou da arquitetura vernácula do Rio de Janeiro sob um
 viés mais social do que artístico, como abordado anteriormente no que
@@ -858,11 +857,11 @@ novo ciclo de arabização artística e arquitetônica. Ele é evidenciado
 pelo contraste entre o exterior palladiano da Bolsa do Porto e o salão
 árabe no seu interior ([@fig:bolsa; @fig:bolsa-arabe]).
 
-![Joaquim da Costa Lima. Palácio da Bolsa, sede da Associação Comercial do Porto, 1842--1848. Foto: [Aurélio Paz dos Reis, anterior a 1894][]](media/bolsa.jpg){#fig:bolsa}
+![Joaquim da Costa Lima. Palácio da Bolsa, sede da Associação Comercial do Porto, 1842--1848. Foto: [Aurélio Paz dos Reis, anterior a 1894][]](media/figura-14.jpg){#fig:bolsa}
 
 [Aurélio Paz dos Reis, anterior a 1894]: https://commons.wikimedia.org/wiki/File:Caleches_em_frente_ao_Palácio_da_Bolsa,_antes_da_construção_do_jardim_da_praça_do_Infante_D._Henrique,_iniciado_em_1894_(APR)_(9289615971).jpg
 
-![Gustavo Adolfo Gonçalves e Sousa. Salão árabe no palácio da Bolsa, 1862. Foto: [Marcello Saponaro, 2015][]](media/bolsa-arabe.jpg){#fig:bolsa-arabe}
+![Gustavo Adolfo Gonçalves e Sousa. Salão árabe no palácio da Bolsa, 1862. Foto: [Marcello Saponaro, 2015][]](media/figura-15.jpg){#fig:bolsa-arabe}
 
 [Marcello Saponaro, 2015]: https://commons.wikimedia.org/wiki/File:OPORTO,_PORTUGAL_(16936695598).jpg
 
@@ -887,7 +886,7 @@ iconográficos da arquitetura erudita, destinados à ambientação de
 espaços ou mesmo superfícies considerados individualmente
 (@fig:monserrate).
 
-![James Thomas Knowles. Palácio de Monserrate, Sintra, após 1856. Foto: [Rodrigo Tetsuo Argenton, 2019][]](media/monserrate.jpg){#fig:monserrate}
+![James Thomas Knowles. Palácio de Monserrate, Sintra, após 1856. Foto: [Rodrigo Tetsuo Argenton, 2019][]](media/figura-16.jpg){#fig:monserrate}
 
 [Rodrigo Tetsuo Argenton, 2019]: https://commons.wikimedia.org/wiki/File:Palácio_de_Monserrate_por_Rodrigo_Tetsuo_Argenton_(6).jpg
 
@@ -911,7 +910,7 @@ a historiografia [@marins:2001atraves] deu a essa reminiscência árabe na
 morada vernácula brasileira um protagonismo inigualado pelos
 revivalismos anteriores.
 
-![Muxarabiê no solar Monjope, de José Mariano Filho, 1920--1928, baseado em documentação por Nereu Sampaio, Nestor de Figueiredo, Ângelo Bruhns e Lucio Costa. [@marianno:1943influencias]](media/monjope.jpg){#fig:monjope}
+![Muxarabiê no solar Monjope, de José Mariano Filho, 1920--1928, baseado em documentação por Nereu Sampaio, Nestor de Figueiredo, Ângelo Bruhns e Lucio Costa. Publicado em @marianno:1943influencias](media/figura-17.jpg){#fig:monjope}
 
 # Conclusão #
 

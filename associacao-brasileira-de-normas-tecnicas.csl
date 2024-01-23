@@ -193,13 +193,13 @@ autores, exceto em arquivos do tipo 'artigo de jornal, artigo de revista, artigo
         <text variable="title"/>
       </if>
       <else-if type="book thesis" match="any">
-        <text variable="title" font-weight="bold"/>
+        <text variable="title" font-weight="normal" font-style="italic"/>
       </else-if>
       <else-if type="article-newspaper article-magazine article-journal paper-conference" match="any">
         <text variable="title"/>
       </else-if>
       <else>
-        <text variable="title" font-weight="bold"/>
+        <text variable="title" font-weight="normal" font-style="italic"/>
       </else>
     </choose>
   </macro>
@@ -208,7 +208,7 @@ autores, exceto em arquivos do tipo 'artigo de jornal, artigo de revista, artigo
     <choose>
       <if type="paper-conference" match="any"/>
       <else>
-        <text variable="container-title" font-weight="bold"/>
+        <text variable="container-title" font-weight="normal" font-style="italic"/>
       </else>
     </choose>
   </macro>
@@ -259,10 +259,10 @@ em caixa alta. Utiliza-se antes do nome da conferencia a expressao "In". Segundo
         </choose>
         <choose>
           <if variable="container-title">
-            <text variable="container-title" font-weight="bold" suffix=". "/>
+            <text variable="container-title" font-weight="normal" font-style="italic" suffix=". "/>
           </if>
           <else>
-            <text value="Anais" font-weight="bold"/>
+            <text value="Anais" font-weight="normal" font-style="italic"/>
             <text value="... "/>
           </else>
         </choose>
@@ -425,7 +425,7 @@ em caixa alta. Utiliza-se antes do nome da conferencia a expressao "In". Segundo
             <!--Numero da lei-->
             <text macro="title" suffix=". "/>
             <!--Titulo-->
-            <text variable="references" font-weight="bold"/>
+            <text variable="references" font-weight="normal" font-style="italic"/>
             <!--Historico em negrito-->
             <text variable="note"/>
             <!--Campo 'extra' caso queira colocar alguma observacao-->
